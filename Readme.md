@@ -15,7 +15,7 @@
 - [Github technical terms and meaning](#github-technical-terms-and-meaning)
 - [Helpful Links](#helpful-links)
 
-A blog to publish and promote algorithms of participants
+A repository to host javaScript projects
 
 _Start by setting your git machine_ [install it](https://help.github.com/articles/set-up-git/)
 
